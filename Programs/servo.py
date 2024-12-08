@@ -1,6 +1,7 @@
 import smbus2
 import struct
 import time
+import numpy as np
 
 #ポテンショメータのサーボ
 class ServoP:
